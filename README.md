@@ -15,7 +15,7 @@ downloading. This can be installed on your own OS (refer to How downloading work
 ## Usage
 First clone the project somewhere:
 
-`git clone link`
+`git clone https://github.com/isvora/reddit-to-youtube.git`
 
 Then, you have to go into `constants\Credentials.py` and replace the api keys with your own api key from your reddit app.
 Refer to the next chapter on how to create a reddit app.
